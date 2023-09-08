@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Various view specific methods for application I use."
   spec.description = "Provides generated HTML data for Rails applications."
-  spec.homepage = "None"
+  spec.homepage = "www.example.com"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
